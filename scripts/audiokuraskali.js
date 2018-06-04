@@ -1,6 +1,6 @@
 const air = new Howl({
   src: [
-    "../assets/air.mp3",
+    "/assets/air.mp3",
     "Add File",
     "Add File"
   ],
@@ -13,7 +13,7 @@ const air = new Howl({
 
 const alert = new Howl({
     src: [
-        "../assets/alert.mp3",
+        "/assets/alert.mp3",
         "Add File",
         "Add File"
     ],
@@ -26,7 +26,7 @@ const alert = new Howl({
 
 const ambient = new Howl({
     src: [
-        "../assets/ambient.mp3",
+        "/assets/ambient.mp3",
         "Add File",
         "Add File"
     ],
@@ -39,7 +39,7 @@ const ambient = new Howl({
 
 const buzzing = new Howl({
     src: [
-        "../assets/buzzing.mp3",
+        "/assets/buzzing.mp3",
         "Add File",
         "Add File"
     ],
@@ -52,7 +52,7 @@ const buzzing = new Howl({
 
 const cebur = new Howl({
     src: [
-        "../assets/cebur.mp3",
+        "/assets/cebur.mp3",
         "Add File",
         "Add File"
     ],
@@ -65,7 +65,7 @@ const cebur = new Howl({
 
 const combat = new Howl({
     src: [
-        "../assets/combat.mp3",
+        "/assets/combat.mp3",
         "Add File",
         "Add File"
     ],
@@ -78,7 +78,7 @@ const combat = new Howl({
 
 const epicchase = new Howl({
     src: [
-        "../assets/epicchase.mp3",
+        "/assets/epicchase.mp3",
         "Add File",
         "Add File"
     ],
@@ -91,7 +91,7 @@ const epicchase = new Howl({
 
 const fight = new Howl({
     src: [
-        "../assets/fight.mp3",
+        "/assets/fight.mp3",
         "Add File",
         "Add File"
     ],
@@ -104,7 +104,7 @@ const fight = new Howl({
 
 const hore = new Howl({
     src: [
-        "../assets/hore.mp3",
+        "/assets/hore.mp3",
         "Add File",
         "Add File"
     ],
@@ -116,7 +116,7 @@ const hore = new Howl({
 });
 
 const hutan = new Howl({
-  src: ["../assets/hutan.mp3", "Add File", "Add File"],
+  src: ["/assets/hutan.mp3", "Add File", "Add File"],
   autoplay: false,
   volume: 0.5,
   loop: true,
@@ -125,7 +125,7 @@ const hutan = new Howl({
 });
 
 const jedug = new Howl({
-  src: ["../assets/jedug.mp3", "Add File", "Add File"],
+  src: ["/assets/jedug.mp3", "Add File", "Add File"],
   autoplay: false,
   volume: 0.5,
   loop: false,
@@ -134,7 +134,7 @@ const jedug = new Howl({
 });
 
 const mainmenu = new Howl({
-  src: ["../assets/main-menu.mp3", "Add File", "Add File"],
+  src: ["/assets/main-menu.mp3", "Add File", "Add File"],
   autoplay: false,
   volume: 0.5,
   loop: true,
@@ -143,7 +143,7 @@ const mainmenu = new Howl({
 });
 
 const malam = new Howl({
-  src: ["../assets/malam.mp3", "Add File", "Add File"],
+  src: ["/assets/malam.mp3", "Add File", "Add File"],
   autoplay: false,
   volume: 0.5,
   loop: true,
@@ -152,7 +152,7 @@ const malam = new Howl({
 });
 
 const masukkampung = new Howl({
-  src: ["../assets/masukkampung.mp3", "Add File", "Add File"],
+  src: ["/assets/masukkampung.mp3", "Add File", "Add File"],
   autoplay: false,
   volume: 0.5,
   loop: true,
@@ -161,7 +161,7 @@ const masukkampung = new Howl({
 });
 
 const over = new Howl({
-  src: ["../assets/over.mp3", "Add File", "Add File"],
+  src: ["/assets/over.mp3", "Add File", "Add File"],
   autoplay: false,
   volume: 0.5,
   loop: false,
@@ -170,7 +170,7 @@ const over = new Howl({
 });
 
 const panah = new Howl({
-  src: ["../assets/panah.mp3", "Add File", "Add File"],
+  src: ["/assets/panah.mp3", "Add File", "Add File"],
   autoplay: false,
   volume: 0.5,
   loop: false,
@@ -179,7 +179,7 @@ const panah = new Howl({
 });
 
 const panting = new Howl({
-  src: ["../assets/panting.mp3", "Add File", "Add File"],
+  src: ["/assets/panting.mp3", "Add File", "Add File"],
   autoplay: false,
   volume: 0.5,
   loop: false,
@@ -188,7 +188,7 @@ const panting = new Howl({
 });
 
 const pomapoma = new Howl({
-  src: ["../assets/poma-poma.mp3", "Add File", "Add File"],
+  src: ["/assets/poma-poma.mp3", "Add File", "Add File"],
   autoplay: false,
   volume: 0.5,
   loop: true,
@@ -197,7 +197,7 @@ const pomapoma = new Howl({
 });
 
 const romance = new Howl({
-  src: ["../assets/romance.mp3", "Add File", "Add File"],
+  src: ["/assets/romance.mp3", "Add File", "Add File"],
   autoplay: false,
   volume: 0.5,
   loop: true,
@@ -206,7 +206,7 @@ const romance = new Howl({
 });
 
 const sigh = new Howl({
-  src: ["../assets/sigh.mp3", "Add File", "Add File"],
+  src: ["/assets/sigh.mp3", "Add File", "Add File"],
   autoplay: false,
   volume: 0.5,
   loop: false,
@@ -215,7 +215,7 @@ const sigh = new Howl({
 });
 
 const sore = new Howl({
-  src: ["../assets/sore.mp3", "Add File", "Add File"],
+  src: ["/assets/sore.mp3", "Add File", "Add File"],
   autoplay: false,
   volume: 0.5,
   loop: false,
@@ -224,7 +224,7 @@ const sore = new Howl({
 });
 
 const suaralesung = new Howl({
-  src: ["../assets/suaralesung.mp3", "Add File", "Add File"],
+  src: ["/assets/suaralesung.mp3", "Add File", "Add File"],
   autoplay: false,
   volume: 0.1,
   loop: false,
@@ -233,7 +233,7 @@ const suaralesung = new Howl({
 });
 
 const sungai = new Howl({
-  src: ["../assets/sungai.mp3", "Add File", "Add File"],
+  src: ["/assets/sungai.mp3", "Add File", "Add File"],
   autoplay: false,
   volume: 0.5,
   loop: true,
@@ -242,7 +242,7 @@ const sungai = new Howl({
 });
 
 const underwater = new Howl({
-  src: ["../assets/underwater.mp3", "Add File", "Add File"],
+  src: ["/assets/underwater.mp3", "Add File", "Add File"],
   autoplay: false,
   volume: 0.5,
   loop: true,
@@ -251,7 +251,7 @@ const underwater = new Howl({
 });
 
 const monyet = new Howl({
-  src: ["../assets/monyet_1.mp3", "Add File", "Add File"],
+  src: ["/assets/monyet_1.mp3", "Add File", "Add File"],
   autoplay: false,
   volume: 0.5,
   loop: true,
