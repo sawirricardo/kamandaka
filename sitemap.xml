@@ -2,33 +2,210 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://kamandaka.com/index.html</loc>
-    <lastmod>2018-06-04</lastmod>
+    <lastmod>2018-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://kamandaka.com/membantu.html</loc>
-    <lastmod>2018-06-04</lastmod>
+    <lastmod>2018-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/1%20-%20copy%20(2).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/1%20-%20copy%20(3).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/1%20-%20copy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/2%20-%20copy%20(2).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/2%20-%20copy%20(3).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/2%20-%20copy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/3%20-%20copy%20(2).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/3%20-%20copy%20(3).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/3%20-%20copy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/4%20-%20copy%20(2).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/4%20-%20copy%20(3).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/4%20-%20copy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/monyet1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/monyet2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/api1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/api2.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://kamandaka.com/membiarkan.html</loc>
-    <lastmod>2018-06-04</lastmod>
+    <lastmod>2018-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/monyet1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/monyet2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/api1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/api2.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://kamandaka.com/menggagalkan.html</loc>
-    <lastmod>2018-06-04</lastmod>
+    <lastmod>2018-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang1%20-%20copy%20(2)-crop-u45531.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang1%20-%20copy%20(3)-crop-u45816.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang1%20-%20copy%20(4)-crop-u45836.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang1%20-%20copy%20(5)-crop-u45856.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang1%20-%20copy%20(6)-crop-u45876.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang1%20-%20copy-crop-u45896.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang1-crop-u45916.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang2%20-%20copy%20(2)-crop-u45936.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang2%20-%20copy-crop-u45956.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang2-crop-u45976.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang3%20-%20copy%20(2)-crop-u45996.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang3%20-%20copy%20(3)-crop-u46016.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang3%20-%20copy%20(4)-crop-u46036.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang3%20-%20copy%20(5)-crop-u46056.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang3%20-%20copy%20(6)-crop-u46076.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang3%20-%20copy-crop-u46096.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang3-crop-u46116.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://kamandaka.com/kuras-kali.html</loc>
-    <lastmod>2018-06-04</lastmod>
+    <lastmod>2018-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/15.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/1%20-%20copy%20(2)-crop-u35527.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/1%20-%20copy%20(3)-crop-u42389.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/1%20-%20copy%20(4)-crop-u42442.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/1%20-%20copy%20(5)-crop-u42495.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/1%20-%20copy-crop-u42548.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/1-crop-u42601.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/2%20-%20copy%20(2)-crop-u42654.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/2%20-%20copy%20(3)-crop-u42707.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/2%20-%20copy-crop-u42760.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/2-crop-u42813.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/3%20-%20copy%20(2)-crop-u42866.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/3%20-%20copy%20(3)-crop-u42919.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/3%20-%20copy%20(4)-crop-u42972.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/3%20-%20copy%20(5)-crop-u43025.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/3%20-%20copy%20(6)-crop-u43078.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/3%20-%20copy-crop-u43131.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/3-crop-u43184.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://kamandaka.com/images/13%20lompat.png</image:loc>
     </image:image>
@@ -130,60 +307,6 @@
     </image:image>
     <image:image>
       <image:loc>http://kamandaka.com/images/2%20cahaya%203.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kamandaka.com/images/15.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kamandaka.com/images/1%20-%20copy%20(2)-crop-u35527.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kamandaka.com/images/1%20-%20copy%20(3)-crop-u42389.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kamandaka.com/images/1%20-%20copy%20(4)-crop-u42442.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kamandaka.com/images/1%20-%20copy%20(5)-crop-u42495.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kamandaka.com/images/1%20-%20copy-crop-u42548.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kamandaka.com/images/1-crop-u42601.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kamandaka.com/images/2%20-%20copy%20(2)-crop-u42654.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kamandaka.com/images/2%20-%20copy%20(3)-crop-u42707.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kamandaka.com/images/2%20-%20copy-crop-u42760.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kamandaka.com/images/2-crop-u42813.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kamandaka.com/images/3%20-%20copy%20(2)-crop-u42866.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kamandaka.com/images/3%20-%20copy%20(3)-crop-u42919.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kamandaka.com/images/3%20-%20copy%20(4)-crop-u42972.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kamandaka.com/images/3%20-%20copy%20(5)-crop-u43025.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kamandaka.com/images/3%20-%20copy%20(6)-crop-u43078.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kamandaka.com/images/3%20-%20copy-crop-u43131.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kamandaka.com/images/3-crop-u43184.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://kamandaka.com/images/16%20back.png</image:loc>
@@ -359,9 +482,60 @@
   </url>
   <url>
     <loc>http://kamandaka.com/kabur-ke-kanan.html</loc>
-    <lastmod>2018-06-04</lastmod>
+    <lastmod>2018-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang1%20-%20copy%20(2)-crop-u46560.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang1%20-%20copy%20(3)-crop-u46558.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang1%20-%20copy%20(4)-crop-u46562.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang1%20-%20copy%20(5)-crop-u46550.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang1%20-%20copy%20(6)-crop-u46556.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang1%20-%20copy-crop-u46574.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang1-crop-u46546.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang2%20-%20copy%20(2)-crop-u46568.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang2%20-%20copy-crop-u46578.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang2-crop-u46576.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang3%20-%20copy%20(2)-crop-u46570.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang3%20-%20copy%20(3)-crop-u46548.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang3%20-%20copy%20(4)-crop-u46564.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang3%20-%20copy%20(5)-crop-u46572.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang3%20-%20copy%20(6)-crop-u46552.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang3%20-%20copy-crop-u46566.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kamandaka.com/images/orang3-crop-u46554.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://kamandaka.com/lurus.html</loc>

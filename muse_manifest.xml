@@ -1,32 +1,148 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kamandaka.com" resolutions="1x" timestamp="1528123832338">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kamandaka.com" resolutions="1x" timestamp="1528149712150">
   <folder name="css">
     <file name="site_global.css" crc="199784918"/>
-    <file name="menggagalkan.css" crc="201691335" ref="menggagalkan"/>
+    <file name="kabur-ke-kanan.css" crc="140644489" ref="kabur-ke-kanan"/>
+    <file name="membiarkan.css" crc="4089527874" ref="membiarkan"/>
+    <file name="kuras-kali.css" crc="343242409" ref="kuras-kali"/>
+    <file name="nomq_kuras-kali.css" crc="400807351" ref="kuras-kali"/>
+    <file name="index.css" crc="141889365" ref="index"/>
+    <file name="menggagalkan.css" crc="3978006223" ref="menggagalkan"/>
+    <file name="membantu.css" crc="4172608664" ref="membantu"/>
     <file name="lurus.css" crc="406887668" ref="lurus"/>
-    <file name="kuras-kali.css" crc="3936245877" ref="kuras-kali"/>
-    <file name="nomq_kuras-kali.css" crc="453878018" ref="kuras-kali"/>
     <file name="kabur-ke-kiri.css" crc="4283426752" ref="kabur-ke-kiri"/>
-    <file name="kabur-ke-kanan.css" crc="4167393531" ref="kabur-ke-kanan"/>
-    <file name="membantu.css" crc="3952747684" ref="membantu"/>
-    <file name="membiarkan.css" crc="147137291" ref="membiarkan"/>
-    <file name="index.css" crc="4189839576" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="kuras-kali:membantu:membiarkan:menggagalkan:lurus:kabur-ke-kiri:kabur-ke-kanan:index"/>
     <file name="museutils.js" crc="340535759" ref="kuras-kali:membantu:membiarkan:menggagalkan:lurus:kabur-ke-kiri:kabur-ke-kanan:index"/>
     <file name="whatinput.js" crc="86476730" ref="kuras-kali:membantu:membiarkan:menggagalkan:lurus:kabur-ke-kiri:kabur-ke-kanan:index"/>
     <file name="museconfig.js" crc="310584261" ref="kuras-kali:membantu:membiarkan:menggagalkan:lurus:kabur-ke-kiri:kabur-ke-kanan:index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="kuras-kali:membantu:menggagalkan:kabur-ke-kanan"/>
-    <file name="webpro.js" crc="4059564322" ref="kuras-kali"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="kuras-kali"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="kuras-kali"/>
-    <file name="touchswipe.js" crc="4075097462" ref="kuras-kali"/>
+    <file name="webpro.js" crc="4059564322" ref="kuras-kali:membantu:membiarkan:menggagalkan:kabur-ke-kanan"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="kuras-kali:membantu:membiarkan:menggagalkan:kabur-ke-kanan"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="kuras-kali:membantu:membiarkan:menggagalkan:kabur-ke-kanan"/>
+    <file name="touchswipe.js" crc="4075097462" ref="kuras-kali:membantu:membiarkan:menggagalkan:kabur-ke-kanan"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="kuras-kali:membantu:membiarkan:menggagalkan:kabur-ke-kanan:index"/>
     <file name="jquery.watch.js" crc="51536988" ref="kuras-kali:membantu:membiarkan:menggagalkan:lurus:kabur-ke-kiri:kabur-ke-kanan:index"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="kuras-kali:membantu:membiarkan:menggagalkan:lurus:kabur-ke-kiri:kabur-ke-kanan"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="kuras-kali"/>
     <file name="require.js" crc="7928878" ref="kuras-kali:membantu:membiarkan:menggagalkan:lurus:kabur-ke-kiri:kabur-ke-kanan:index"/>
   </folder>
   <folder name="images">
+    <file name="u11127-4.png" crc="4036071985" ref="kuras-kali"/>
+    <file name="u11128-4.png" crc="288203246" ref="kuras-kali"/>
+    <file name="u11129-4.png" crc="478532444" ref="kuras-kali"/>
+    <file name="u11130-4.png" crc="4239890166" ref="kuras-kali"/>
+    <file name="u11358-4.png" crc="4012324299" ref="kuras-kali"/>
+    <file name="u11359-4.png" crc="3969665221" ref="kuras-kali"/>
+    <file name="u11360-4.png" crc="4007692867" ref="kuras-kali"/>
+    <file name="u12361-4.png" crc="276480027" ref="kuras-kali"/>
+    <file name="u12364-4.png" crc="3997073931" ref="kuras-kali"/>
+    <file name="u12367-6.png" crc="522790024" ref="kuras-kali"/>
+    <file name="u12394-4.png" crc="4237607255" ref="kuras-kali"/>
+    <file name="u12400-4.png" crc="4262337704" ref="kuras-kali"/>
+    <file name="u12411-4.png" crc="223004150" ref="kuras-kali"/>
+    <file name="u12414-4.png" crc="318779228" ref="kuras-kali"/>
+    <file name="u12417-4.png" crc="108843872" ref="kuras-kali"/>
+    <file name="u12420-4.png" crc="3874293608" ref="kuras-kali"/>
+    <file name="u12423-4.png" crc="3924334916" ref="kuras-kali"/>
+    <file name="15.png" crc="385817433" seo="true" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+      <caption webpage="kuras-kali" alt=""/>
+      <caption webpage="kuras-kali" alt=""/>
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="u12426-4.png" crc="3855001200" ref="kuras-kali"/>
+    <file name="u12429-4.png" crc="310079690" ref="kuras-kali"/>
+    <file name="u12432-4.png" crc="3978928582" ref="kuras-kali"/>
+    <file name="u12435-4.png" crc="3770920791" ref="kuras-kali"/>
+    <file name="1 - copy (2)-crop-u35527.jpg" crc="120853734" seo="true" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="kuras-kali:membantu:membiarkan:menggagalkan:lurus:kabur-ke-kiri:kabur-ke-kanan:index"/>
+    <file name="1 - copy (3)-crop-u42389.jpg" crc="120853734" seo="true" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="1 - copy (4)-crop-u42442.jpg" crc="120853734" seo="true" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="1 - copy (5)-crop-u42495.jpg" crc="120853734" seo="true" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="1 - copy-crop-u42548.jpg" crc="120853734" seo="true" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="1-crop-u42601.jpg" crc="120853734" seo="true" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="2 - copy (2)-crop-u42654.jpg" crc="3886542526" seo="true" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="2 - copy (3)-crop-u42707.jpg" crc="3886542526" seo="true" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="2 - copy-crop-u42760.jpg" crc="3886542526" seo="true" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="2-crop-u42813.jpg" crc="3886542526" seo="true" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="3 - copy (2)-crop-u42866.jpg" crc="447592710" seo="true" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="3 - copy (3)-crop-u42919.jpg" crc="447592710" seo="true" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="3 - copy (4)-crop-u42972.jpg" crc="447592710" seo="true" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="3 - copy (5)-crop-u43025.jpg" crc="447592710" seo="true" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="3 - copy (6)-crop-u43078.jpg" crc="447592710" seo="true" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="3 - copy-crop-u43131.jpg" crc="447592710" seo="true" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="3-crop-u43184.jpg" crc="447592710" seo="true" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="kuras-kali:membantu:membiarkan:menggagalkan:kabur-ke-kanan"/>
+    <file name="2 kuras kali 5 back.png" crc="399801382" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="2 kuras kali 6 backk.png" crc="334093468" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="2 kuras kali 7 backk.png" crc="3978659659" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="u25662-4.png" crc="3861482747" ref="kuras-kali"/>
+    <file name="2 kuras kali 62 balon2.png" crc="469382477" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="2 kuras kali 7.png" crc="3911742759" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
+    <file name="dialog3-u40510.png" crc="56089025" ref="kuras-kali"/>
+    <file name="dialog3-u40510-r.png" crc="118665100" ref="kuras-kali"/>
+    <file name="dialog2-u40516.png" crc="3839144256" ref="kuras-kali"/>
+    <file name="dialog2-u40516-r.png" crc="4190385853" ref="kuras-kali"/>
+    <file name="dialog1-u40522.png" crc="137169756" ref="kuras-kali"/>
+    <file name="dialog1-u40522-r.png" crc="385023415" ref="kuras-kali"/>
+    <file name="u41268_states.png" crc="4188839871" ref="kuras-kali"/>
+    <file name="u41268_states-r.png" crc="355670034" ref="kuras-kali"/>
+    <file name="u41356_states.png" crc="167341751" ref="kuras-kali"/>
+    <file name="u41356_states-r.png" crc="3883743520" ref="kuras-kali"/>
+    <file name="u41959_states-r.png" crc="399896306" ref="kuras-kali"/>
+    <file name="u41380_states.png" crc="3917384243" ref="kuras-kali"/>
+    <file name="u41380_states-r.png" crc="315831490" ref="kuras-kali"/>
+    <file name="u41971_states-r.png" crc="3841703367" ref="kuras-kali"/>
+    <file name="u41404_states.png" crc="3920547880" ref="kuras-kali"/>
+    <file name="u41404_states-r.png" crc="79668406" ref="kuras-kali"/>
+    <file name="u41980_states-r.png" crc="198781430" ref="kuras-kali"/>
+    <file name="u41428_states.png" crc="418129688" ref="kuras-kali"/>
+    <file name="u41428_states-r.png" crc="4064437183" ref="kuras-kali"/>
+    <file name="u41989_states-r.png" crc="3770561971" ref="kuras-kali"/>
     <file name="1.png" crc="3785969870" ref="kuras-kali">
       <caption webpage="kuras-kali" alt=""/>
     </file>
@@ -88,10 +204,13 @@
       <caption webpage="kuras-kali" alt=""/>
     </file>
     <file name="u25663-4.png" crc="3980960692" ref="kuras-kali"/>
+    <file name="2 kuras kali 91 backk.png" crc="3954550129" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
     <file name="2 kuras kali 81.png" crc="108246139" ref="kuras-kali">
       <caption webpage="kuras-kali" alt=""/>
     </file>
-    <file name="2 kuras kali 82 back.png" crc="517762782" ref="kuras-kali">
+    <file name="2 kuras kali 92 backk.png" crc="222683040" ref="kuras-kali">
       <caption webpage="kuras-kali" alt=""/>
     </file>
     <file name="2 kuras kali 82.png" crc="4176656264" ref="kuras-kali">
@@ -120,7 +239,7 @@
     </file>
     <file name="u25675-4.png" crc="3921016043" ref="kuras-kali"/>
     <file name="u25676-6.png" crc="383942248" ref="kuras-kali"/>
-    <file name="2 kuras kali 10 back.png" crc="292684534" ref="kuras-kali">
+    <file name="2 kuras kali 10 backk.png" crc="154914406" ref="kuras-kali">
       <caption webpage="kuras-kali" alt=""/>
     </file>
     <file name="u25680-4.png" crc="3974081598" ref="kuras-kali"/>
@@ -404,133 +523,17 @@
     <file name="u11060-4.png" crc="3776390112" ref="kuras-kali"/>
     <file name="u11061-6.png" crc="461136249" ref="kuras-kali"/>
     <file name="navigation.png" crc="215033418" ref="kuras-kali:membantu:membiarkan:menggagalkan:lurus:kabur-ke-kiri:kabur-ke-kanan">
-      <caption webpage="kabur-ke-kiri" alt=""/>
       <caption webpage="membiarkan" alt=""/>
+      <caption webpage="kabur-ke-kiri" alt=""/>
+      <caption webpage="kuras-kali" alt=""/>
+      <caption webpage="kuras-kali" alt=""/>
+      <caption webpage="kuras-kali" alt=""/>
+      <caption webpage="kuras-kali" alt=""/>
       <caption webpage="membantu" alt=""/>
-      <caption webpage="kuras-kali" alt=""/>
-      <caption webpage="kuras-kali" alt=""/>
-      <caption webpage="kuras-kali" alt=""/>
-      <caption webpage="kuras-kali" alt=""/>
-      <caption webpage="lurus" alt=""/>
       <caption webpage="menggagalkan" alt=""/>
+      <caption webpage="lurus" alt=""/>
       <caption webpage="kabur-ke-kanan" alt=""/>
     </file>
-    <file name="u11127-4.png" crc="4036071985" ref="kuras-kali"/>
-    <file name="u11128-4.png" crc="288203246" ref="kuras-kali"/>
-    <file name="u11129-4.png" crc="478532444" ref="kuras-kali"/>
-    <file name="u11130-4.png" crc="4239890166" ref="kuras-kali"/>
-    <file name="u11358-4.png" crc="4012324299" ref="kuras-kali"/>
-    <file name="u11359-4.png" crc="3969665221" ref="kuras-kali"/>
-    <file name="u11360-4.png" crc="4007692867" ref="kuras-kali"/>
-    <file name="u12361-4.png" crc="276480027" ref="kuras-kali"/>
-    <file name="u12364-4.png" crc="3997073931" ref="kuras-kali"/>
-    <file name="u12367-6.png" crc="522790024" ref="kuras-kali"/>
-    <file name="u12394-4.png" crc="4237607255" ref="kuras-kali"/>
-    <file name="u12400-4.png" crc="4262337704" ref="kuras-kali"/>
-    <file name="u12411-4.png" crc="223004150" ref="kuras-kali"/>
-    <file name="u12414-4.png" crc="318779228" ref="kuras-kali"/>
-    <file name="u12417-4.png" crc="108843872" ref="kuras-kali"/>
-    <file name="u12420-4.png" crc="3874293608" ref="kuras-kali"/>
-    <file name="u12423-4.png" crc="3924334916" ref="kuras-kali"/>
-    <file name="15.png" crc="385817433" seo="true" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-      <caption webpage="kuras-kali" alt=""/>
-      <caption webpage="kuras-kali" alt=""/>
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="u12426-4.png" crc="3855001200" ref="kuras-kali"/>
-    <file name="u12429-4.png" crc="310079690" ref="kuras-kali"/>
-    <file name="u12432-4.png" crc="3978928582" ref="kuras-kali"/>
-    <file name="u12435-4.png" crc="3770920791" ref="kuras-kali"/>
-    <file name="1 - copy (2)-crop-u35527.jpg" crc="120853734" seo="true" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="kuras-kali:membantu:membiarkan:menggagalkan:lurus:kabur-ke-kiri:kabur-ke-kanan:index"/>
-    <file name="1 - copy (3)-crop-u42389.jpg" crc="120853734" seo="true" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="1 - copy (4)-crop-u42442.jpg" crc="120853734" seo="true" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="1 - copy (5)-crop-u42495.jpg" crc="120853734" seo="true" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="1 - copy-crop-u42548.jpg" crc="120853734" seo="true" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="1-crop-u42601.jpg" crc="120853734" seo="true" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="2 - copy (2)-crop-u42654.jpg" crc="3886542526" seo="true" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="2 - copy (3)-crop-u42707.jpg" crc="3886542526" seo="true" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="2 - copy-crop-u42760.jpg" crc="3886542526" seo="true" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="2-crop-u42813.jpg" crc="3886542526" seo="true" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="3 - copy (2)-crop-u42866.jpg" crc="447592710" seo="true" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="3 - copy (3)-crop-u42919.jpg" crc="447592710" seo="true" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="3 - copy (4)-crop-u42972.jpg" crc="447592710" seo="true" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="3 - copy (5)-crop-u43025.jpg" crc="447592710" seo="true" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="3 - copy (6)-crop-u43078.jpg" crc="447592710" seo="true" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="3 - copy-crop-u43131.jpg" crc="447592710" seo="true" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="3-crop-u43184.jpg" crc="447592710" seo="true" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="kuras-kali"/>
-    <file name="2 kuras kali 5 back.png" crc="399801382" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="2 kuras kali 6 back.png" crc="3773544353" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="2 kuras kali 7 back.png" crc="155454702" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="u25662-4.png" crc="3861482747" ref="kuras-kali"/>
-    <file name="2 kuras kali 62 balon2.png" crc="469382477" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="2 kuras kali 7.png" crc="3911742759" ref="kuras-kali">
-      <caption webpage="kuras-kali" alt=""/>
-    </file>
-    <file name="dialog3-u40510.png" crc="56089025" ref="kuras-kali"/>
-    <file name="dialog3-u40510-r.png" crc="118665100" ref="kuras-kali"/>
-    <file name="dialog2-u40516.png" crc="3839144256" ref="kuras-kali"/>
-    <file name="dialog2-u40516-r.png" crc="4190385853" ref="kuras-kali"/>
-    <file name="dialog1-u40522.png" crc="137169756" ref="kuras-kali"/>
-    <file name="dialog1-u40522-r.png" crc="385023415" ref="kuras-kali"/>
-    <file name="u41268_states.png" crc="4188839871" ref="kuras-kali"/>
-    <file name="u41268_states-r.png" crc="355670034" ref="kuras-kali"/>
-    <file name="u41356_states.png" crc="167341751" ref="kuras-kali"/>
-    <file name="u41356_states-r.png" crc="3883743520" ref="kuras-kali"/>
-    <file name="u41959_states-r.png" crc="399896306" ref="kuras-kali"/>
-    <file name="u41380_states.png" crc="3917384243" ref="kuras-kali"/>
-    <file name="u41380_states-r.png" crc="315831490" ref="kuras-kali"/>
-    <file name="u41971_states-r.png" crc="3841703367" ref="kuras-kali"/>
-    <file name="u41404_states.png" crc="3920547880" ref="kuras-kali"/>
-    <file name="u41404_states-r.png" crc="79668406" ref="kuras-kali"/>
-    <file name="u41980_states-r.png" crc="198781430" ref="kuras-kali"/>
-    <file name="u41428_states.png" crc="418129688" ref="kuras-kali"/>
-    <file name="u41428_states-r.png" crc="4064437183" ref="kuras-kali"/>
-    <file name="u41989_states-r.png" crc="3770561971" ref="kuras-kali"/>
     <file name="u11055-42.png" crc="480503363" ref="kuras-kali"/>
     <file name="u11056-42.png" crc="145371220" ref="kuras-kali"/>
     <file name="u11059-42.png" crc="4089576248" ref="kuras-kali"/>
@@ -668,6 +671,9 @@
       <caption webpage="kuras-kali" alt=""/>
     </file>
     <file name="u25651-42.png" crc="350953859" ref="kuras-kali"/>
+    <file name="2 kuras kali 6 back.png" crc="3773544353" ref="kuras-kali">
+      <caption webpage="kuras-kali" alt=""/>
+    </file>
     <file name="u25665-42.png" crc="106620279" ref="kuras-kali"/>
     <file name="u25669-42.png" crc="4016913297" ref="kuras-kali"/>
     <file name="u25672-42.png" crc="3906842377" ref="kuras-kali"/>
@@ -1144,12 +1150,6 @@
     <file name="4 menang dapet pesan ketemu pagi7.png" crc="292189780" ref="membantu">
       <caption webpage="membantu" alt=""/>
     </file>
-    <file name="4 menang dapet pesan ketemu pagi 81 anii.png" crc="162901347" ref="membantu">
-      <caption webpage="membantu" alt=""/>
-    </file>
-    <file name="4 menang dapet pesan ketemu pagi 91 anii.png" crc="209385260" ref="membantu">
-      <caption webpage="membantu" alt=""/>
-    </file>
     <file name="4 menang dapet pesan ketemu pagi 10.png" crc="4012396743" ref="membantu">
       <caption webpage="membantu" alt=""/>
     </file>
@@ -1157,9 +1157,6 @@
       <caption webpage="membantu" alt=""/>
     </file>
     <file name="4 menang dapet pesan ketemu pagi 11.png" crc="4133709734" ref="membantu">
-      <caption webpage="membantu" alt=""/>
-    </file>
-    <file name="4 menang dapet pesan ketemu pagi 12.png" crc="263401045" ref="membantu">
       <caption webpage="membantu" alt=""/>
     </file>
     <file name="4 menang dapet pesan ketemu pagi 121.png" crc="13669816" ref="membantu">
@@ -1181,30 +1178,88 @@
     <file name="u37265-4.png" crc="289152843" ref="membantu"/>
     <file name="u37266-4.png" crc="29368506" ref="membantu"/>
     <file name="u37267-4.png" crc="4259695654" ref="membantu"/>
-    <file name="u37268-4.png" crc="4279673889" ref="membantu"/>
-    <file name="u37269-4.png" crc="225104853" ref="membantu"/>
-    <file name="u37270-4.png" crc="31332264" ref="membantu"/>
-    <file name="u37271-4.png" crc="3891539278" ref="membantu"/>
-    <file name="u37272-4.png" crc="196956895" ref="membantu"/>
-    <file name="u37273-4.png" crc="346320946" ref="membantu"/>
-    <file name="u37274-4.png" crc="392912248" ref="membantu"/>
-    <file name="u37275-4.png" crc="13668816" ref="membantu"/>
-    <file name="u37276-4.png" crc="4095765593" ref="membantu"/>
-    <file name="u37277-4.png" crc="4011851193" ref="membantu"/>
-    <file name="u37278-4.png" crc="68059515" ref="membantu"/>
-    <file name="u37279-4.png" crc="40519916" ref="membantu"/>
-    <file name="u37280-4.png" crc="373820460" ref="membantu"/>
+    <file name="u37268-4.png" crc="512335329" ref="membantu"/>
+    <file name="u37269-4.png" crc="327902342" ref="membantu"/>
+    <file name="u37270-4.png" crc="4059996646" ref="membantu"/>
+    <file name="u37271-4.png" crc="40243069" ref="membantu"/>
+    <file name="u37273-4.png" crc="3780126615" ref="membantu"/>
+    <file name="u37274-4.png" crc="3809334692" ref="membantu"/>
+    <file name="u37275-4.png" crc="277625186" ref="membantu"/>
+    <file name="u37276-4.png" crc="4140301499" ref="membantu"/>
+    <file name="u37277-4.png" crc="3969289546" ref="membantu"/>
+    <file name="u37278-4.png" crc="3797029506" ref="membantu"/>
+    <file name="u37279-4.png" crc="4200535209" ref="membantu"/>
+    <file name="u37280-4.png" crc="357655281" ref="membantu"/>
     <file name="4 kalah malem ketemu cipta2 back.png" crc="4013167582" ref="membantu:membiarkan">
-      <caption webpage="membiarkan" alt=""/>
       <caption webpage="membantu" alt=""/>
+      <caption webpage="membiarkan" alt=""/>
     </file>
     <file name="4 kalah malem ketemu cipta2 org.png" crc="432924302" ref="membantu:membiarkan">
-      <caption webpage="membiarkan" alt=""/>
       <caption webpage="membantu" alt=""/>
+      <caption webpage="membiarkan" alt=""/>
     </file>
     <file name="4 menang dapet pesan ketemu pagi 6 balon.png" crc="3999139496" ref="membantu:membiarkan">
-      <caption webpage="membiarkan" alt=""/>
       <caption webpage="membantu" alt=""/>
+      <caption webpage="membiarkan" alt=""/>
+    </file>
+    <file name="4 menang dapet pesan pagi ketemu cipta 6 balon.png" crc="4153359188" ref="membantu">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="1 - copy (2).jpg" crc="462354433" seo="true" ref="membantu">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="1 - copy (3).jpg" crc="462354433" seo="true" ref="membantu">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="1 - copy.jpg" crc="462354433" seo="true" ref="membantu">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="1.jpg" crc="462354433" seo="true" ref="membantu">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="2 - copy (2).jpg" crc="208205455" seo="true" ref="membantu">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="2 - copy (3).jpg" crc="208205455" seo="true" ref="membantu">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="2 - copy.jpg" crc="208205455" seo="true" ref="membantu">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="2.jpg" crc="208205455" seo="true" ref="membantu">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="3 - copy (2).jpg" crc="3885206627" seo="true" ref="membantu">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="3 - copy (3).jpg" crc="3885206627" seo="true" ref="membantu">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="3 - copy.jpg" crc="3885206627" seo="true" ref="membantu">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="3.jpg" crc="3885206627" seo="true" ref="membantu">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="4 - copy (2).jpg" crc="440476128" seo="true" ref="membantu">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="4 - copy (3).jpg" crc="440476128" seo="true" ref="membantu">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="4 - copy.jpg" crc="440476128" seo="true" ref="membantu">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="4.jpg" crc="440476128" seo="true" ref="membantu">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="monyet1.jpg" crc="102821741" seo="true" ref="membantu:membiarkan">
+      <caption webpage="membantu" alt=""/>
+      <caption webpage="membiarkan" alt=""/>
+    </file>
+    <file name="monyet2.jpg" crc="3993686427" seo="true" ref="membantu:membiarkan">
+      <caption webpage="membantu" alt=""/>
+      <caption webpage="membiarkan" alt=""/>
     </file>
     <file name="u43904_states.png" crc="167341751" ref="membantu"/>
     <file name="u43904_states-r.png" crc="3883743520" ref="membantu"/>
@@ -1233,6 +1288,23 @@
     <file name="u33490-4.png" crc="99881678" ref="membantu"/>
     <file name="u33492-4.png" crc="377041683" ref="membantu"/>
     <file name="u33491-4.png" crc="9343581" ref="membantu"/>
+    <file name="4 kalah malem ketemu cipta 3 back.png" crc="289366308" ref="membantu:membiarkan">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="4 kalah malem ketemu cipta back semua.png" crc="388914098" ref="membantu:membiarkan">
+      <caption webpage="membantu" alt=""/>
+    </file>
+    <file name="api1.jpg" crc="140770722" seo="true" ref="membantu:membiarkan">
+      <caption webpage="membantu" alt=""/>
+      <caption webpage="membiarkan" alt=""/>
+    </file>
+    <file name="api2.jpg" crc="290755598" seo="true" ref="membantu:membiarkan">
+      <caption webpage="membantu" alt=""/>
+      <caption webpage="membiarkan" alt=""/>
+    </file>
+    <file name="4 kalah malem ketemu cipta back semua end nya.png" crc="3849779463" ref="membantu">
+      <caption webpage="membantu" alt=""/>
+    </file>
     <file name="u39038.png" crc="444974063" ref="membantu"/>
     <file name="kanan-u39038-r.png" crc="4178612267" ref="membantu"/>
     <file name="u39041.png" crc="327212469" ref="membantu"/>
@@ -1290,14 +1362,14 @@
     <file name="u38856-4.png" crc="4084720711" ref="membiarkan"/>
     <file name="u38857-4.png" crc="3942842138" ref="membiarkan"/>
     <file name="u38858-4.png" crc="3814884414" ref="membiarkan"/>
-    <file name="u38859-4.png" crc="4285370220" ref="membiarkan"/>
-    <file name="u38860-4.png" crc="3990276017" ref="membiarkan"/>
-    <file name="u38861-4.png" crc="3994337921" ref="membiarkan"/>
-    <file name="u38862-4.png" crc="4001111783" ref="membiarkan"/>
-    <file name="u38863-6.png" crc="484071878" ref="membiarkan"/>
-    <file name="u38864-4.png" crc="163760195" ref="membiarkan"/>
-    <file name="u38865-4.png" crc="266224476" ref="membiarkan"/>
-    <file name="u39562-4.png" crc="4002695412" ref="membiarkan"/>
+    <file name="u38859-4.png" crc="4269397271" ref="membiarkan"/>
+    <file name="u38860-4.png" crc="222942643" ref="membiarkan"/>
+    <file name="u38861-4.png" crc="434248591" ref="membiarkan"/>
+    <file name="u38862-4.png" crc="91734114" ref="membiarkan"/>
+    <file name="u38863-6.png" crc="465556462" ref="membiarkan"/>
+    <file name="u38864-4.png" crc="4139790303" ref="membiarkan"/>
+    <file name="u38865-4.png" crc="3975395312" ref="membiarkan"/>
+    <file name="u39562-4.png" crc="3809763790" ref="membiarkan"/>
     <file name="u34716-4.png" crc="285432053" ref="membiarkan"/>
     <file name="u34717-4.png" crc="3760769682" ref="membiarkan"/>
     <file name="u34718-4.png" crc="3894795771" ref="membiarkan"/>
@@ -1315,6 +1387,13 @@
     <file name="u44084_states.png" crc="3920547880" ref="membiarkan"/>
     <file name="u44084_states-r.png" crc="79668406" ref="membiarkan"/>
     <file name="u44085_states-r.png" crc="3764708802" ref="membiarkan"/>
+    <file name="51 back backnya.png" crc="397266254" ref="menggagalkan:kabur-ke-kanan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="1 backknya back.png" crc="3784571002" ref="menggagalkan:kabur-ke-kanan">
+      <caption webpage="menggagalkan" alt=""/>
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
     <file name="3 membalas back.png" crc="390454555" ref="menggagalkan">
       <caption webpage="menggagalkan" alt=""/>
     </file>
@@ -1403,18 +1482,6 @@
       <caption webpage="menggagalkan" alt=""/>
       <caption webpage="kabur-ke-kanan" alt=""/>
     </file>
-    <file name="8 panel.png" crc="181157962" ref="menggagalkan:kabur-ke-kanan">
-      <caption webpage="menggagalkan" alt=""/>
-      <caption webpage="kabur-ke-kanan" alt=""/>
-    </file>
-    <file name="8 org.png" crc="125923394" ref="menggagalkan:kabur-ke-kanan">
-      <caption webpage="menggagalkan" alt=""/>
-      <caption webpage="kabur-ke-kanan" alt=""/>
-    </file>
-    <file name="8 balon.png" crc="4037046347" ref="menggagalkan:kabur-ke-kanan">
-      <caption webpage="menggagalkan" alt=""/>
-      <caption webpage="kabur-ke-kanan" alt=""/>
-    </file>
     <file name="92 back-u31088-fr.png" crc="4211647706" ref="menggagalkan:kabur-ke-kanan"/>
     <file name="92 balon.png" crc="3815345401" ref="menggagalkan:kabur-ke-kanan">
       <caption webpage="menggagalkan" alt=""/>
@@ -1485,10 +1552,6 @@
       <caption webpage="menggagalkan" alt=""/>
       <caption webpage="kabur-ke-kanan" alt=""/>
     </file>
-    <file name="14 balon.png" crc="4213443066" ref="menggagalkan:kabur-ke-kanan">
-      <caption webpage="menggagalkan" alt=""/>
-      <caption webpage="kabur-ke-kanan" alt=""/>
-    </file>
     <file name="15back.png" crc="273697947" ref="menggagalkan:kabur-ke-kanan">
       <caption webpage="menggagalkan" alt=""/>
       <caption webpage="kabur-ke-kanan" alt=""/>
@@ -1505,14 +1568,75 @@
     <file name="u31120-4.png" crc="57923954" ref="menggagalkan"/>
     <file name="u31121-4.png" crc="3818477007" ref="menggagalkan"/>
     <file name="u31122-4.png" crc="14025174" ref="menggagalkan"/>
-    <file name="u31123-7.png" crc="4167145158" ref="menggagalkan"/>
-    <file name="u31124-8.png" crc="187255460" ref="menggagalkan"/>
-    <file name="u31125-7.png" crc="4151190409" ref="menggagalkan"/>
+    <file name="u31123-7.png" crc="97957770" ref="menggagalkan"/>
+    <file name="u31124-8.png" crc="276598233" ref="menggagalkan"/>
+    <file name="u31125-7.png" crc="20232710" ref="menggagalkan"/>
     <file name="u31126-4.png" crc="3788125323" ref="menggagalkan"/>
     <file name="u31127-7.png" crc="355480437" ref="menggagalkan"/>
     <file name="u39544-4.png" crc="266224476" ref="menggagalkan"/>
     <file name="u39556-4.png" crc="4002695412" ref="menggagalkan"/>
+    <file name="orang1 - copy (2)-crop-u45531.jpg" crc="336221834" seo="true" ref="menggagalkan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="orang1 - copy (3)-crop-u45816.jpg" crc="336221834" seo="true" ref="menggagalkan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="orang1 - copy (4)-crop-u45836.jpg" crc="336221834" seo="true" ref="menggagalkan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="orang1 - copy (5)-crop-u45856.jpg" crc="336221834" seo="true" ref="menggagalkan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="orang1 - copy (6)-crop-u45876.jpg" crc="336221834" seo="true" ref="menggagalkan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="orang1 - copy-crop-u45896.jpg" crc="336221834" seo="true" ref="menggagalkan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="orang1-crop-u45916.jpg" crc="336221834" seo="true" ref="menggagalkan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="orang2 - copy (2)-crop-u45936.jpg" crc="4179643474" seo="true" ref="menggagalkan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="orang2 - copy-crop-u45956.jpg" crc="4179643474" seo="true" ref="menggagalkan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="orang2-crop-u45976.jpg" crc="4179643474" seo="true" ref="menggagalkan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="orang3 - copy (2)-crop-u45996.jpg" crc="251860808" seo="true" ref="menggagalkan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="orang3 - copy (3)-crop-u46016.jpg" crc="251860808" seo="true" ref="menggagalkan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="orang3 - copy (4)-crop-u46036.jpg" crc="251860808" seo="true" ref="menggagalkan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="orang3 - copy (5)-crop-u46056.jpg" crc="251860808" seo="true" ref="menggagalkan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="orang3 - copy (6)-crop-u46076.jpg" crc="251860808" seo="true" ref="menggagalkan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="orang3 - copy-crop-u46096.jpg" crc="251860808" seo="true" ref="menggagalkan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="orang3-crop-u46116.jpg" crc="251860808" seo="true" ref="menggagalkan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="8 balon.png" crc="4037046347" ref="menggagalkan:kabur-ke-kanan">
+      <caption webpage="menggagalkan" alt=""/>
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
     <file name="u31115-4.png" crc="3812086410" ref="menggagalkan"/>
+    <file name="10 backnya back.png" crc="4000948319" ref="menggagalkan:kabur-ke-kanan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
+    <file name="11 backnya back.png" crc="381684214" ref="menggagalkan:kabur-ke-kanan">
+      <caption webpage="menggagalkan" alt=""/>
+    </file>
     <file name="u44007_states.png" crc="4188839871" ref="menggagalkan"/>
     <file name="u44007_states-r.png" crc="355670034" ref="menggagalkan"/>
     <file name="u44008_states.png" crc="167341751" ref="menggagalkan"/>
@@ -1617,15 +1741,18 @@
     <file name="u44247.png" crc="3917384243" ref="kabur-ke-kiri"/>
     <file name="u44247-r.png" crc="315831490" ref="kabur-ke-kiri"/>
     <file name="u44248-r.png" crc="4186329471" ref="kabur-ke-kiri"/>
+    <file name="14 balon.png" crc="4213443066" ref="kabur-ke-kanan">
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
     <file name="u39312-4.png" crc="3965592811" ref="kabur-ke-kanan"/>
     <file name="u39313-4.png" crc="54283296" ref="kabur-ke-kanan"/>
     <file name="u39314-4.png" crc="27958338" ref="kabur-ke-kanan"/>
     <file name="u39315-4.png" crc="57923954" ref="kabur-ke-kanan"/>
     <file name="u39316-4.png" crc="3818477007" ref="kabur-ke-kanan"/>
     <file name="u39317-4.png" crc="14025174" ref="kabur-ke-kanan"/>
-    <file name="u39318-7.png" crc="4167145158" ref="kabur-ke-kanan"/>
-    <file name="u39319-8.png" crc="187255460" ref="kabur-ke-kanan"/>
-    <file name="u39320-7.png" crc="4151190409" ref="kabur-ke-kanan"/>
+    <file name="u39318-7.png" crc="97957770" ref="kabur-ke-kanan"/>
+    <file name="u39319-8.png" crc="276598233" ref="kabur-ke-kanan"/>
+    <file name="u39320-7.png" crc="20232710" ref="kabur-ke-kanan"/>
     <file name="u39321-4.png" crc="3788125323" ref="kabur-ke-kanan"/>
     <file name="u39322-7.png" crc="355480437" ref="kabur-ke-kanan"/>
     <file name="6 ke kanan balon.png" crc="4153191693" ref="kabur-ke-kanan">
@@ -1633,6 +1760,57 @@
     </file>
     <file name="u39541-4.png" crc="266224476" ref="kabur-ke-kanan"/>
     <file name="u39559-4.png" crc="4002695412" ref="kabur-ke-kanan"/>
+    <file name="orang1 - copy (2)-crop-u46560.jpg" crc="336221834" seo="true" ref="kabur-ke-kanan">
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
+    <file name="orang1 - copy (3)-crop-u46558.jpg" crc="336221834" seo="true" ref="kabur-ke-kanan">
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
+    <file name="orang1 - copy (4)-crop-u46562.jpg" crc="336221834" seo="true" ref="kabur-ke-kanan">
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
+    <file name="orang1 - copy (5)-crop-u46550.jpg" crc="336221834" seo="true" ref="kabur-ke-kanan">
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
+    <file name="orang1 - copy (6)-crop-u46556.jpg" crc="336221834" seo="true" ref="kabur-ke-kanan">
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
+    <file name="orang1 - copy-crop-u46574.jpg" crc="336221834" seo="true" ref="kabur-ke-kanan">
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
+    <file name="orang1-crop-u46546.jpg" crc="336221834" seo="true" ref="kabur-ke-kanan">
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
+    <file name="orang2 - copy (2)-crop-u46568.jpg" crc="4179643474" seo="true" ref="kabur-ke-kanan">
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
+    <file name="orang2 - copy-crop-u46578.jpg" crc="4179643474" seo="true" ref="kabur-ke-kanan">
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
+    <file name="orang2-crop-u46576.jpg" crc="4179643474" seo="true" ref="kabur-ke-kanan">
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
+    <file name="orang3 - copy (2)-crop-u46570.jpg" crc="251860808" seo="true" ref="kabur-ke-kanan">
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
+    <file name="orang3 - copy (3)-crop-u46548.jpg" crc="251860808" seo="true" ref="kabur-ke-kanan">
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
+    <file name="orang3 - copy (4)-crop-u46564.jpg" crc="251860808" seo="true" ref="kabur-ke-kanan">
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
+    <file name="orang3 - copy (5)-crop-u46572.jpg" crc="251860808" seo="true" ref="kabur-ke-kanan">
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
+    <file name="orang3 - copy (6)-crop-u46552.jpg" crc="251860808" seo="true" ref="kabur-ke-kanan">
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
+    <file name="orang3 - copy-crop-u46566.jpg" crc="251860808" seo="true" ref="kabur-ke-kanan">
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
+    <file name="orang3-crop-u46554.jpg" crc="251860808" seo="true" ref="kabur-ke-kanan">
+      <caption webpage="kabur-ke-kanan" alt=""/>
+    </file>
     <file name="6 ke kanan.png" crc="213287614" ref="kabur-ke-kanan">
       <caption webpage="kabur-ke-kanan" alt=""/>
     </file>
@@ -1645,17 +1823,17 @@
     <file name="u44154_states.png" crc="3917384243" ref="kabur-ke-kanan"/>
     <file name="u44154_states-r.png" crc="315831490" ref="kabur-ke-kanan"/>
     <file name="u44155_states-r.png" crc="19373475" ref="kabur-ke-kanan"/>
-    <file name="u24582-4.png" crc="227293058" ref="index"/>
-    <file name="u24580-4.png" crc="3972718190" ref="index"/>
+    <file name="logo fix putih 150 dpi-u46874-fr.png" crc="100132154" ref="index"/>
+    <file name="u24580-4.png" crc="3834639347" ref="index"/>
     <file name="u41588_states.png" crc="128259760" ref="index"/>
     <file name="u41588_states-r.png" crc="3829468000" ref="index"/>
   </folder>
-  <file name="kuras-kali.html" crc="4111706289" seo="true" mt="1528123732231" redirect="true"/>
-  <file name="membantu.html" crc="4009026694" seo="true" mt="1528123600855" redirect="true"/>
-  <file name="membiarkan.html" crc="360534802" seo="true" mt="1528123494926" redirect="true"/>
-  <file name="menggagalkan.html" crc="345599015" seo="true" mt="1528123657549" redirect="true"/>
+  <file name="kuras-kali.html" crc="4022869908" seo="true" mt="1528149573251" redirect="true"/>
+  <file name="membantu.html" crc="240056360" seo="true" mt="1528146605593" redirect="true"/>
+  <file name="membiarkan.html" crc="4105678129" seo="true" mt="1528146622598" redirect="true"/>
+  <file name="menggagalkan.html" crc="406305716" seo="true" mt="1528148206257" redirect="true"/>
   <file name="lurus.html" crc="4221258972" seo="true" mt="1528123385640" redirect="true"/>
   <file name="kabur-ke-kiri.html" crc="188659240" seo="true" mt="1528123433407" redirect="true"/>
-  <file name="kabur-ke-kanan.html" crc="3932688970" seo="true" mt="1528123346418" redirect="true"/>
-  <file name="index.html" crc="4207822302" seo="true" mt="1528062433724" redirect="true"/>
+  <file name="kabur-ke-kanan.html" crc="4288783973" seo="true" mt="1528147996000" redirect="true"/>
+  <file name="index.html" crc="459351630" seo="true" mt="1528141172401" redirect="true"/>
 </manifest>
